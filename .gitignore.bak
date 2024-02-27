@@ -5,6 +5,7 @@ __pycache__/
 ckpt/
 *.pth
 *.jpg
+*.png
 venv/
 .idea/
 temp/
