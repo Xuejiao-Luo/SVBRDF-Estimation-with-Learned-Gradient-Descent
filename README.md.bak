@@ -1,8 +1,8 @@
 # Single-Image-SVBRDF-Estimation-with-Learned-Gradient-Descent
-This is code of "Single-Image SVBRDF Estimation with Learned Gradient Descent" 
+This is code of "Single-Image-SVBRDF-Estimation-with-Learned-Gradient-Descent" 
 [Paper](http://graphics.tudelft.nl/Publications-new/2024/LSBE24)
 
-<img src='./teaser.png'>
+<img src='./teaser.pdf'>
 
 ## Requirements
 
