@@ -1,5 +1,4 @@
 *.pyc
-dataset/
 results/
 __pycache__/
 ckpt/
@@ -8,3 +7,5 @@ ckpt/
 venv/
 .idea/
 temp/
+*.bak
+.gitignore

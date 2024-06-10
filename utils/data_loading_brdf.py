@@ -35,7 +35,7 @@ class BasicDataset(Dataset):
     def __getitem__(self, idx):
         name = self.ids[idx]
 
-        fileExt = '.png'
+        fileExt = '.jpg'
         img_brdfs_file = Path(self.images_dir, name+fileExt)
 
         if self.train:
