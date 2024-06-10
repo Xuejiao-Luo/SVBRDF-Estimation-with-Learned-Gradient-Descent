@@ -8,4 +8,4 @@ venv/
 .idea/
 temp/
 *.bak
-.gitignore
+*.gitignore
