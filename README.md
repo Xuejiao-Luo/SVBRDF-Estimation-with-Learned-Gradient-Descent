@@ -21,7 +21,7 @@ please save the pretrained model to `./ckpt/` and put your testing data to `./da
 To run the inference code, use this command:
 
 ```
-python predict.py --useLog --correctGammas
+python predict.py --useLog --correctGamma
 
 ```
 The output SVBRDF is stored in the order: diffuse, specular, roughness, normal.
